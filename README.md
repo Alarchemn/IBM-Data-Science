@@ -1,2 +1,3 @@
 # fantastic-sniffle
-Only for testing purposes
+## Only for testing purposes
+This document has only educational purposes.
